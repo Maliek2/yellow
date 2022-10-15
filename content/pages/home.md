@@ -16,14 +16,11 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 # Features
 
 - **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
+- **[Netlify CMS](https://github.com/Maliek/yellow)** for content management
 - Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
+- **[Mailchimp](http://www.adball.tech)** and **[Uploadcare](https://www.adball.tech)** integrations
 - Fully responsive layout for mobile and widescreen browsing
 - Blog searching and paging functionality
 - Seamless image and content sliders
 
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo]
-[![Deploy to Netlify]()]()
+# Get started
