@@ -1,11 +1,11 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: Maliek News
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
 meta:
-  description: This is a meta description.
+  description: This is a meta description of Gatsby
   title: The Ultimate Gatsby Starter
 ---
 
@@ -25,6 +25,5 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 
 ## Get started
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo]
+[![Deploy to Netlify]()]()
